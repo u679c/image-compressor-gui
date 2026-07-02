@@ -2,6 +2,8 @@
 
 一个本地运行的 PyQt 图片压缩工具，支持拖拽图片、设置目标大小、查看压缩进度、直观对比压缩效果并另存为文件。
 
+<img width="1097" height="1055" alt="截屏2026-07-02 晚上10 53 57" src="https://github.com/user-attachments/assets/9d1e253f-af0c-48f3-8366-090dad1fd429" />
+
 ## 安装依赖
 
 如果你的 `python3.11` 在 PATH 里：
